@@ -4,7 +4,7 @@
 This is my **Personal Portfolio Website**, designed to showcase my skills, projects, and achievements in a professional and visually appealing manner. It serves as an interactive resume for recruiters, clients, and collaborators.  
 
 ## 🖥️ Live Demo  
-🔗 [Portfolio Website][(https://67ada8e573aa413231711c8e--elegant-heliotrope-1fda23.netlify.app/)  
+🔗 [Portfolio Website][(https://resplendent-cassata-c5df5c.netlify.app/))  
 
 ## 🎯 Features  
 - **Responsive Design** – Works on desktop, tablet, and mobile devices.  
